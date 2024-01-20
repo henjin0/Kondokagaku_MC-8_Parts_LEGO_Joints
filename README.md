@@ -1,0 +1,2 @@
+# Kondokagaku_MC-8_Parts_LEGO_Joints
+近藤科学のMC-8に付属する受信機側パーツをLEGOに組み付けられるようにしたジョイントパーツです。
